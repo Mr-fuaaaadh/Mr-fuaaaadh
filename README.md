@@ -1,104 +1,305 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Muhammad Fuhad MK</h1>
-<h3 align="center">A passionate Python Full Stack Developer from India</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-fuaaaadh&label=Profile%20views&color=0e75b6&style=flat" alt="mr-fuaaaadh" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:0a0a2e,100:000000&height=200&section=header&text=Muhammad%20Fuhad%20MK&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=7c3aed&animation=fadeIn" />
 
-- 🌱 I’m currently learning **React.js, NEXT.js**
-- 💬 Ask me about **Full Stack, Front End, Back End**
-- 📫 How to reach me **fuhadmk4@gmail.com**
-- ⚡ Fun fact **I am funny**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-fuhad-mk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fuhad mk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/fuhad-mk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fuhad mk" height="30" width="40" /></a>
-<a href="https://fb.com/fuhadmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fuhad mk" height="30" width="40" /></a>
-<a href="https://instagram.com/fuaaaaaaaadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuaaaaaaaadh" height="30" width="40" /></a>
-<a href="https://medium.com/@fuhadmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="fuhad mk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fuhadmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fuhad mk" height="30" width="40" /></a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;React+%2F+Next.js+Engineer+%E2%9A%9B%EF%B8%8F;Django+Architect+%F0%9F%94%A7;API+%26+Cloud+Specialist+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
+<br/>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-fuaaaadh&show_icons=true&locale=en&layout=compact" alt="mr-fuaaaadh" /></p>
+<img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" width="360" alt="Coding GIF" style="border-radius: 16px;"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-fuaaaadh&show_icons=true&locale=en" alt="mr-fuaaaadh" /></p>
+<br/><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-fuaaaadh&" alt="mr-fuaaaadh" /></p>
+<!-- STATUS BADGES -->
+<a href="mailto:fuhadmk4@gmail.com">
+  <img src="https://img.shields.io/badge/📫_HIRE_ME-7C3AED?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/muhammad-fuhad-mk">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mr-fuaaaadh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
-<h3 align="left">Trophies:</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-fuaaaadh&margin-w=15&margin-h=15" alt="mr-fuaaaadh" />
-</p>
+</div>
 
-<h3 align="left">Profile Visitors:</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mr-fuaaaadh&label=Profile%20views&color=0e75b6&style=flat" alt="mr-fuaaaadh" />
-</p>
+<br/>
 
-<h3 align="left">Contact Me:</h3>
-<p align="left"><a href="fuhadmk4@gmail.com">
-  📫 fuhadmk4@gmail.com </a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+## `> whoami`
+
+```yaml
+Name     : Muhammad Fuhad MK
+Role     : Python Full Stack Developer
+Location : India 🇮🇳
+Email    : fuhadmk4@gmail.com
+Status   : Open to Opportunities ✅
+```
+
+**Crafting scalable web solutions** from pixel-perfect frontends to robust backend architectures. Passionate about clean code, system design, and turning complex problems into elegant software.
+
+</td>
+<td width="50%" valign="top">
+
+## `> current_focus`
+
+```python
+currently_learning = [
+    "React.js  ⚛️",
+    "Next.js   ▲",
+]
+
+expertise = {
+    "Frontend" : ["React", "Next.js", "TypeScript"],
+    "Backend"  : ["Django", "Flask", "REST APIs"],
+    "Database" : ["PostgreSQL", "MySQL"],
+    "Cloud"    : ["AWS", "Docker"],
+}
+
+fun_fact = "I am funny 😄"
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       SKILLS SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚡ Tech Arsenal
+
+<!-- FRONTEND -->
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<!-- BACKEND -->
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</details>
+
+<!-- DATABASE -->
+<details open>
+<summary><b>🗄️ Database</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<!-- CLOUD & DEVOPS -->
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+<!-- TOOLS -->
+<details open>
+<summary><b>🛠️ Tools & Design</b></summary>
+<br/>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<h3 align="center">🏗️ Project One</h3>
+<div align="center">
+<img src="https://via.placeholder.com/400x200/0d0d1a/7c3aed?text=Project+Screenshot" width="100%" alt="Project 1" style="border-radius:8px"/>
+<br/><br/>
+<p>A full-stack web application built with <b>Django + React</b>. Features REST API, JWT auth, and PostgreSQL backend with a modern responsive UI.</p>
+<br/>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-7C3AED?style=for-the-badge)](https://github.com/mr-fuaaaadh)
+[![View Code](https://img.shields.io/badge/💻_VIEW_CODE-0d1117?style=for-the-badge&logo=github)](https://github.com/mr-fuaaaadh)
+
+</div>
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">⚡ Project Two</h3>
+<div align="center">
+<img src="https://via.placeholder.com/400x200/0d0d1a/06b6d4?text=Project+Screenshot" width="100%" alt="Project 2" style="border-radius:8px"/>
+<br/><br/>
+<p>A high-performance REST API service built with <b>Flask + AWS</b>. Containerized with Docker, deployed on AWS EC2 with auto-scaling capabilities.</p>
+<br/>
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-06B6D4?style=for-the-badge)](https://github.com/mr-fuaaaadh)
+[![View Code](https://img.shields.io/badge/💻_VIEW_CODE-0d1117?style=for-the-badge&logo=github)](https://github.com/mr-fuaaaadh)
+
+</div>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mr-fuaaaadh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-fuaaaadh&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=ff6e6e&currStreakLabel=7c3aed&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-fuaaaadh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&layout=compact&langs_count=8" />
+
+<br/><br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mr-fuaaaadh&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true&area=true&area_color=7c3aed" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        TROPHIES                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mr-fuaaaadh&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CONNECT SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/muhammad-fuhad-mk">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://stackoverflow.com/users/fuhad-mk">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/fuaaaaaaaadh">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://medium.com/@fuhadmk">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/c/fuhadmk">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://fb.com/fuhadmk">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:fuhadmk4@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FOOTER WAVE                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:0d0d1a&height=120&section=footer&animation=fadeIn" />
+
+<div align="center">
+  <sub>⚡ Built with passion by <b>Muhammad Fuhad MK</b> · Python Full Stack Developer · India 🇮🇳</sub>
+</div>
