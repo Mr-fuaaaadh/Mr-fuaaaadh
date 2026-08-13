@@ -11,6 +11,9 @@
 <a href="https://devb.io/Mr-fuaaaadh">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+<a href="https://www.truefoxaiinc.com">
+  <img src="https://img.shields.io/badge/Currently%20@-Truefox%20AI%20Inc.-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://github.com/Mr-fuaaaadh">
   <img src="https://img.shields.io/github/followers/Mr-fuaaaadh?style=for-the-badge&color=6C5CE7&labelColor=111111&logo=github"/>
 </a>
@@ -33,8 +36,9 @@ location: Kerala, India 🇮🇳
 open_to: GCC Opportunities (UAE · Saudi Arabia · Qatar · Kuwait) | Remote / Hybrid
 focus: >
   Designing and deploying AI-integrated backend systems (Python, Django, REST APIs)
-  for a North American AI technology company. Actively building LLM, agent, and
-  RAG-based applications, using Claude and Cursor in day-to-day development.
+  at Truefox AI Inc. — building production-ready AI agents, computer vision and
+  enterprise automation software. Actively working with LLM, agent, and RAG-based
+  applications, using Claude and Cursor in day-to-day development.
 seeking: Senior Developer / Tech Lead role driving digital transformation
 ```
 
@@ -86,11 +90,13 @@ seeking: Senior Developer / Tech Lead role driving digital transformation
 <td>
 
 **🟣 Senior Backend Developer (Django & AI Deployment)**
-`Truefox AI Inc.` · Remote — Kitchener, Ontario, Canada · **Jun 2026 – Present**
+[`Truefox AI Inc.`](https://www.truefoxaiinc.com) · Remote — Kitchener, Ontario, Canada (HQ) / Kochi, Kerala, India (Delivery) · **Jun 2026 – Present**
 
-- Design and maintain scalable backend applications for AI-driven production systems using Python and Django
-- Build RESTful APIs supporting AI model integration and deployment workflows
-- Collaborate with AI/ML and DevOps teams to ship production-ready AI systems
+<sub>Truefox AI Inc. builds production-ready AI agents, computer vision systems, intelligent surveillance and enterprise automation software — spanning AI Smart Security, Biometric Intelligence, Private AI Assistants, Agentic Automation, and IoT & Edge AI.</sub>
+
+- Design and maintain scalable Django/Python backend systems powering AI agent and computer vision products
+- Build RESTful APIs supporting LLM integration, RAG pipelines, and model deployment workflows
+- Collaborate with AI/ML and DevOps teams to ship production-ready, enterprise-grade AI systems
 - Conduct code reviews and mentor junior developers
 
 </td>
